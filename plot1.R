@@ -38,7 +38,7 @@ hist(
   power_data$Global_active_power, 
   col = "red", 
   xlab = "Global Active Power (kilowatts)", 
-  main = "Gloabl Active Power"
+  main = "Global Active Power"
   )
 
 ##out to device
